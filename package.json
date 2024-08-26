@@ -1,8 +1,9 @@
 {
   "name": "actual-bank-synchronizer",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A simple app to synchronize bank transactions for Actual",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
