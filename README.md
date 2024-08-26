@@ -1,6 +1,6 @@
 # Actual Bank Synchronizer
 
-CLI tool for starting bank data sync in the [Actual](https://actualbudget.org) budget application.
+Simple container image for starting bank data sync in the [Actual](https://actualbudget.org) budget application.
 
 ## Usage
 
